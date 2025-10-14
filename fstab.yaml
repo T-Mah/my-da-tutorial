@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/t-mah/my-da-tutorial/
+    type: markup
